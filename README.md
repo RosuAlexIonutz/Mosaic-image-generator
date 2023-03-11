@@ -4,7 +4,7 @@ A more detailed description of the project can be found below:
 
 The purpose of this project is to create mosaic images. A picture of mosaic type is obtained by replacing the blocks of pixels in an image. reference with small images from a data collection. The replacement of pixel blocks with pieces is done so that the resulting mosaic approximates the reference image as well as possible.
 
-image
+![image](https://user-images.githubusercontent.com/95239028/224484222-14a5809c-03e3-4192-abdd-f9aafbc0fff0.png)
 
 Mosaic image: For the reference image on the left we get the mosaic on the right. The mosaic pieces are chosen from a collection of 1000 images. Each piece represents a flower.
 
